@@ -4,7 +4,7 @@
   <br>
     <img style='width: 100%; height: 22rem' src='https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg'/>
   </dl>
-<p>Mi nombre es Ivan y soy desarrollador Web Argentino<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Mi nombre es Sebastian y soy desarrollador Web Argentino<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### Un poco sobre mi...  
@@ -12,14 +12,15 @@
 ```javascript
 const aboutMe = {
   developer: "FrontEnd" | "BackEnd",
-   code: [Javascript, Java, HTML, CSS],
+   code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "Chartjs", "jQuery"],
+         js: ["React", "Redux", "Chartjs", "NextJS"],
          css: ["Bootstrap", "Semantic-UI"]
       },
       backEnd: {
-         js: ["NodeJS", "express", "Jest", "Sequelize"]
+         js: ["NodeJS", "express", "Jest", "Sequelize", "ejs","mysql", "mysql2", "DOTenv", "BcryptJS", "express-validator","JWT(json-web-token)","mongoose",
+         ]
       },
       databases: ["MySQL", "PostgreSQL", "MongoDB"],
    },
@@ -60,9 +61,9 @@ const aboutMe = {
     <h3>
     <br>  
 <h2> Contacto: <h3> <img align='right' src="https://user-images.githubusercontent.com/85074756/140621760-a092acaa-bb99-41b2-bc4f-b2d30283fbf2.jpeg" width="180" height="195">
-    <a href='https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/' target= "_blank">
+    <a href='https://www.linkedin.com/in/sebastian-gatica-062985200/' target= "_blank">
     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">       
     </a><br>
-<h3> Puedes escribirme a: ivanseba.nez20@gmail.com <h3>
+<h3> Puedes escribirme a: sebasdeveloperlife@gmail.com <h3>
     <br><br>
     Saludos!'
