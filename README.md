@@ -15,11 +15,11 @@ const aboutMe = {
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "Chartjs", "NextJS"],
-         css: ["Bootstrap", "Semantic-UI"]
+         js: ["React", "Redux", "NextJS"],
+         css: ["Bootstrap", "Sass"]
       },
       backEnd: {
-         js: ["NodeJS", "express", "Jest", "Sequelize", "ejs","mysql", "mysql2", "DOTenv", "BcryptJS", "express-validator","JWT(json-web-token)","mongoose",
+         js: ["NestJS","NodeJS", "express","Sequelize", "ejs","mysql", "DOTenv", "BcryptJS", "express-validator","JWT(json-web-token)","mongoose",
          ]
       },
       databases: ["MySQL", "PostgreSQL", "MongoDB"],
@@ -47,10 +47,8 @@ const aboutMe = {
 <h2><strong>Lenguajes: Backend<strong></h2>        
     <h3>  
     Javascript <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"/>  |
-    Java <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/2/26/Java.png"/> |      
     Node Js <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268343/readme/pngwing.com_9_nptorj.png"/> |
     Express <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268180/readme/pngwing.com_5_mtcqjs.png"/> |
-    Jest <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"/>|
     Sequalize <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seekvectors.com/files/download/Sequelize-01.png"
     <h3>
     <br>  
