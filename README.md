@@ -25,11 +25,11 @@ const aboutMe = {
       databases: ["MySQL", "PostgreSQL", "MongoDB"],
    },
   skillLevel: ["Web Developer"],["Full Stack Jr"],
-  challenge: "Open to learn new skill in the taechnology field"
+  challenge: "Open to learn new skills in the taechnology field"
 };
 ```
 - *What am I looking for?*: some business that gives me the opportunity to put into practice everything I have learned and demonstrate my skills as a developer. My ability to learn and the desire of overcome, make me a good candidate for those companies that want to integrate a new talent into their team.
-- *Objetive:* Implement my projects with the most quality standar possible, employing a Stack of tachnologies that I manage to cultivate with effort and dedication.
+- *Objetive:* Implement my projects with the most quality standar possible, employing a Stack of technologies that I manage to cultivate with effort and dedication.
 - *Actually:* I am excited to participate in a project in which I can learn, grow and develop as a professional. That allows me to contribute significant value from my place as a Jr. programmer. For this reason I continue training myself every day to deepen my knowledge and be up to the challenges.:muscle: 
 - *Skills*: Adaptability. Self-taught. Proactive and on own inititive. I feel specially cool in the team work. I like to contribute, cooperate and collaborate with my colleagues to create and formulate innovative solutions, through creative processes on eagle work methodologies that provide us with a guarantee of results. ?? :thumbsup:
     
@@ -62,6 +62,6 @@ const aboutMe = {
     <a href='https://www.linkedin.com/in/sebastian-gatica-062985200/' target= "_blank">
     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">       
     </a><br>
-<h3> Can write me a message: sebasdeveloperlife@gmail.com <h3>
+<h3>  you can write me a message: sebasdeveloperlife@gmail.com <h3>
     <br><br>
     Thanks for Watching!'
