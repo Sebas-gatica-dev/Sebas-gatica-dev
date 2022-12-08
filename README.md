@@ -1,10 +1,10 @@
 # Sebas-gatica-dev
-'<h1> ¡Hola! Muchas gracias por visitar mi perfil en GitHub <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+'<h1> ¡Hi! Thanks for visiting my github profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
   <dl>
   <br>
     <img style='width: 100%; height: 22rem' src='https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg'/>
   </dl>
-<p>Mi nombre es Sebastian y soy desarrollador Web Argentino<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>My name is Sebastian and I'm a Argentine Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### Un poco sobre mi...  
@@ -24,16 +24,16 @@ const aboutMe = {
       },
       databases: ["MySQL", "PostgreSQL", "MongoDB"],
    },
-  skillLevel: ["Desarrollador Web"],["Full Stack Jr"],
-  challenge: "Abierto a aprender nuevas tecnologias y herramientas"
+  skillLevel: ["Web Developer"],["Full Stack Jr"],
+  challenge: "Open to learn new skill in the taechnology field"
 };
 ```
-- *¿Que busco?*: Una empresa que me de la oportunidad de poner en práctica todo lo aprendido y demostrar mis aptitudes como desarrollador. Mi capacidad de aprendizaje y las ganas de superarme me convierten en un buen candidato para aquellas empresas que desean integrar a su equipo un nuevo talento.
-- *Objetivo:* Implementar en mis trabajos diseños con el mayor estándar de calidad posible empleando un Stack de herramientas que logré cultivar con esfuerzo y dedicación.
-- *Actualmente:* Me ilusiona un proyecto en el cual pueda aprender, crecer y desarrollarme como profesional. Que me permita aportar valor significativo desde mi lugar como programador Jr. Por este motivo sigo capacitandome dia a dia para profundizar mis conocimientos y estar a la altura de los desafio.:muscle: 
-- *Competencias*: Adaptabilidad. Autodidacta. Proactivo y con iniciativa propia. Me siento especialmente cómodo trabajando en equipo. Me gusta contribuir, cooperar y colaborar con mis compañeros para crear y formular soluciones innovadoras mediante procesos creativos sobre metodologías de trabajo aguiles que nos proporcionen garantía en los resultados ?? :thumbsup:
+- *What am I looking for?*: some business that gives me the opportunity to put into practice everything I have learned and demonstrate my skills as a developer. My ability to learn and the desire of overcome, make me a good candidate for those companies that want to integrate a new talent into their team.
+- *Objetive:* Implement my projects with the most quality standar possible, employing a Stack of tachnologies that I manage to cultivate with effort and dedication.
+- *Actually:* I am excited to participate in a project in which I can learn, grow and develop as a professional. That allows me to contribute significant value from my place as a Jr. programmer. For this reason I continue training myself every day to deepen my knowledge and be up to the challenges.:muscle: 
+- *Skills*: Adaptability. Self-taught. Proactive and on own inititive. I feel specially cool in the team work. I like to contribute, cooperate and collaborate with my colleagues to create and formulate innovative solutions, through creative processes on eagle work methodologies that provide us with a guarantee of results. ?? :thumbsup:
     
-<h2><strong>Lenguajes: FrontEnd<strong></h2>
+<h2><strong>Lenguages: FrontEnd<strong></h2>
     <h3>
     html5 <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"/> |
     css3 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/> |
@@ -41,7 +41,7 @@ const aboutMe = {
     sass <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/> | 
     React <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"/> | 
     Redux <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635267893/readme/pngwing.com_2_jzoj50.png"/>
-    ChartJS <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://www.chartjs.org/img/chartjs-logo.svg"/>
+   
     <h3> 
     <br>
 <h2><strong>Lenguajes: Backend<strong></h2>        
@@ -62,6 +62,6 @@ const aboutMe = {
     <a href='https://www.linkedin.com/in/sebastian-gatica-062985200/' target= "_blank">
     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">       
     </a><br>
-<h3> Puedes escribirme a: sebasdeveloperlife@gmail.com <h3>
+<h3> Can write me a message: sebasdeveloperlife@gmail.com <h3>
     <br><br>
-    Saludos!'
+    Thanks for Watching!'
