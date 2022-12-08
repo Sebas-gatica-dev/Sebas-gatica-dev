@@ -12,17 +12,18 @@
 ```javascript
 const aboutMe = {
   developer: "FrontEnd" | "BackEnd",
-   code: [Javascript, HTML, CSS],
+   code: [ES6, HTML5, CSS3],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "NextJS"],
+         js: ["ReactJS", "Redux/ReducToolKit", "NextJS"],
          css: ["Bootstrap", "Sass"]
       },
       backEnd: {
-         js: ["NestJS","NodeJS", "express","Sequelize", "ejs","mysql", "DOTenv", "BcryptJS", "express-validator","JWT(json-web-token)","mongoose",
-         ]
+         js: ["NodeJS", "express","Sequelize", "ejs","mysql", "DOTenv", "BcryptJS", "express-validator","JWT(json-web-token)","mongoose",
+         ],
+         typescript:["NestJS"],
       },
-      databases: ["MySQL", "PostgreSQL", "MongoDB"],
+      databases: ["MySQL", "PostgreSQL", "MongoDB", "Mariadb"],
    },
   skillLevel: ["Web Developer"],["Full Stack Jr"],
   challenge: "Open to learn new skills in the taechnology field"
