@@ -15,17 +15,19 @@ const aboutMe = {
    code: [ES6, HTML5, CSS3],
    technologies: {
       frontEnd: {
-         js: ["ReactJS", "Redux/ReducToolKit", "NextJS"],
+         js: ["ReactJS","React-RouterV6"],
          css: ["Bootstrap", "Sass"]
       },
       backEnd: {
          js: ["NodeJS", "express","Sequelize", "ejs","mysql", "DOTenv", "BcryptJS", "express-validator","JWT(json-web-token)","mongoose",
          ],
          typescript:["NestJS"],
+         java: ["SpringBoot", "Hibernate", "Argon2", "JWT"],
       },
       databases: ["MySQL", "PostgreSQL", "MongoDB", "Mariadb"],
    },
-  skillLevel: ["Web Developer"],["Full Stack Jr"],
+  codeEditors:["Visual Studio","Visual Studio Code","Sublime Text","NetBeans","Intellij IDEA"],
+  skillLevel: ["Web Developer","Full Stack Jr"],
   challenge: "Open to learn new skills in the taechnology field"
 };
 ```
