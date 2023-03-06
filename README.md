@@ -7,7 +7,7 @@
 <p>My name is Sebastian and I'm a Argentine Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### Un poco sobre mi...  
+### A little bit about me...  
 
 ```javascript
 const aboutMe = {
