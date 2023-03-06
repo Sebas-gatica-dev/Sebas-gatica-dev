@@ -53,7 +53,7 @@ const aboutMe = {
     Express <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268180/readme/pngwing.com_5_mtcqjs.png"/> |
     Sequalize <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://seekvectors.com/files/download/Sequelize-01.png"/> |
     Java <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2GBqKlTgJ9SzYYObejYZNMFYB9QrjQ-Spsw&usqp=CAU"/> |
-    SpringBoot <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZmXkmhvZXb0HwLMVqC8Vk0QsNeXT6tAe8Zg&usqp=CAU"/> |
+    SpringBoot <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZmXkmhvZXb0HwLMVqC8Vk0QsNeXT6tAe8Zg&usqp=CAU"/> 
     <h3/>
     <br/>  
 <h2><strong>Base de datos<strong></h2>
