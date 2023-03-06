@@ -12,7 +12,7 @@
 ```javascript
 const aboutMe = {
   developer: "FrontEnd" | "BackEnd",
-   code: [ES6, HTML5, CSS3],
+   code: [ES6, HTML5, CSS3, Java, Go, TypeScript],
    technologies: {
       frontEnd: {
          js: ["ReactJS","React-RouterV6"],
