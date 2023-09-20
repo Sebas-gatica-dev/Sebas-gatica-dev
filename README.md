@@ -1,26 +1,27 @@
 # Sebas-gatica-dev
-'<h1> ¡Hi! Thanks for visiting my github profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+'<h1> ¡Hola! Gracias por vsitar mi perfil de github <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
   <dl>
   <br>
     <img style='width: 100%; height: 22rem' src='https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg'/>
   </dl>
-<p>My name is Sebastian and I'm a Argentine Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Mi nombre es Sebastian Gatica, desarrollador full-sack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### A little bit about me...  
+### Un poco de mis habilidades...  
 
 ```javascript
 const aboutMe = {
   developer: "FrontEnd" | "BackEnd",
-   code: [ES6, HTML5, CSS3, Java, Go, TypeScript],
+   code: [ES6, HTML5, CSS3, PHP8, Java, TypeScript],
    technologies: {
       frontEnd: {
-         js: ["ReactJS","React-RouterV6"],
-         css: ["Bootstrap", "Sass"]
+         js: ["ReactJS","React-RouterV6", React-redux],
+         css: ["TailwindCSS","Bootstrap", "Sass"]
       },
       backEnd: {
-         js: ["NodeJS", "express","Sequelize", "ejs","mysql", "DOTenv", "BcryptJS", "express-validator","JWT(json-web-token)","mongoose",
+         js: [ "ExpressJS","Sequelize", "ejs","mysql", "DOTenv", "BcryptJS", "express-validator","JWT(json-web-token)",
          ],
+         php: ["Laravel10"],
          typescript:["NestJS"],
          java: ["SpringBoot", "Hibernate", "Argon2", "JWT"],
       },
@@ -31,23 +32,25 @@ const aboutMe = {
   challenge: "Open to learn new skills in the taechnology field"
 };
 ```
-- *What am I looking for?*: some business that gives me the opportunity to put into practice everything I have learned and demonstrate my skills as a developer. My ability to learn and the desire of overcome, make me a good candidate for those companies that want to integrate a new talent into their team.
-- *Objetive:* Implement my projects with the most quality standar possible, employing a Stack of technologies that I manage to cultivate with effort and dedication.
-- *Actually:* I am excited to participate in a project in which I can learn, grow and develop as a professional. That allows me to contribute significant value from my place as a Jr. programmer. For this reason I continue training myself every day to deepen my knowledge and be up to the challenges.:muscle: 
-- *Skills*: Adaptability. Self-taught. Proactive and on own inititive. I feel specially cool in the team work. I like to contribute, cooperate and collaborate with my colleagues to create and formulate innovative solutions, through creative processes on eagle work methodologies that provide us with a guarantee of results. ?? :thumbsup:
+- *¿Qué busco?*: Demostrar mis habilidades como desarrollador. Mi capacidad de aprendizaje y ansias de autosuperación, me convierten en un buen candidato para aquellas empresas en expansion que quieran integrar un nuevo talento a su equipo.
+- *Objetivo:* Implementar mis proyectos con el mayor estándar de calidad posible, empleando un Stack de tecnologías que logro cultivar con esfuerzo y dedicación.
+- *En realidad:* Me emociona a idea de participar en proyectos, en el que pueda desarrollarme en el que pueda trabajar conjuntamente con otros profesionales, cuya compañia me nutra en conocimientos y buena practicas en el trabajo . Lo mas importante para mi, ademas de cumplir de desempeñar efectivamente las responsabilidades, es expadirmis conocimientos en el ambito del desarrollo mobile, y del desarrollo blockchain, para asegurar la seguridad de datos.:muscle:
+- *Habilidades*: Adaptabilidad. Autodidacta. Proactivo y por iniciativa propia. Me siento especialmente genial en el trabajo en equipo. Me gusta contribuir, cooperar y colaborar con mis compañeros para crear y formular la solucion que se necesita, a través de procesos, basados en metodologías de trabajo agiles, que nos brinden garantía de resultados en el plazo requerido. Entre las tecnologias expuestas, en la que mas conocimientos poseo, es Laravel, tengo un conocimiento acabado del funcionamiento de un sistema de autenticacion de usuario, generacion de tokens sanctum y/o jasonwebtoken(dependiendo de las especificaciones), para identificar permisos por el cual elunuario pede interactuar con la informacion. Manejo de diferentes roles(visitante, usuario, administrador), testing de Features y testing unitarios, manejo de formlarios complejos, alta, baja, y edicion de datos provenientes de tablas relacionadas de manera compleja, generacion de migraciones, factorys, seeders, para asegurar que la aplicacion sea testeada de manera correcta en cualquier ambito local... ?? :thumbsup:
     
 <h2><strong>Lenguages: FrontEnd<strong></h2>
     <h3>
     html5 <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"/> |
     css3 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/> |
     bootstrap5 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"/> |
+    tailwindcss <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="bootstrap5 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"/>"/>  
     sass <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/> | 
     React <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"/> | 
     Redux <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635267893/readme/pngwing.com_2_jzoj50.png"/>
     <h3> 
     <br>
-<h2><strong>Lenguajes: Backend<strong></h2>        
+<h2><strong>Lenguages: Backend<strong></h2>        
     <h3>  
+    Laravel <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="[https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FLaravel.svg%2F1969px-Laravel.svg.png&tbnid=emeEECsbOIvs5M&vet=12ahUKEwitnMyxxLmBAxV8rpUCHdtlAKYQMygAegQIARBK..i&imgrefurl=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALaravel.svg&docid=edWvOhKVI1_mJM&w=1969&h=2048&q=laravel%20logo&ved=2ahUKEwitnMyxxLmBAxV8rpUCHdtlAKYQMygAegQIARBK)"/>  | 
     Javascript <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"/>  |
     Node Js <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268343/readme/pngwing.com_9_nptorj.png"/> |
     Express <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268180/readme/pngwing.com_5_mtcqjs.png"/> |
@@ -66,6 +69,6 @@ const aboutMe = {
     <a href='https://www.linkedin.com/in/sebastian-gatica-062985200/' target= "_blank">
     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">       
     </a><br>
-<h3>  you can write me a message: sebasdeveloperlife@gmail.com <h3>
+<h3>  Podes comunicarte: sebasdeveloperlife@gmail.com <h3>
     <br><br>
-    Thanks for Watching!'
+    Gracias por tu visita!'
