@@ -42,7 +42,7 @@ const aboutMe = {
     html5 <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"/> |
     css3 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/> |
     bootstrap5 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"/> |
-    tailwindcss <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="bootstrap5 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"/>"/>  
+    tailwindcss <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="bootstrap5 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png](https://i.pinimg.com/564x/fe/63/63/fe6363c5220b137f918ccfeadc0ec888.jpg)"/>  
     sass <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/> | 
     React <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"/> | 
     Redux <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635267893/readme/pngwing.com_2_jzoj50.png"/>
@@ -50,7 +50,7 @@ const aboutMe = {
     <br>
 <h2><strong>Lenguages: Backend<strong></h2>        
     <h3>  
-    Laravel <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="[https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FLaravel.svg%2F1969px-Laravel.svg.png&tbnid=emeEECsbOIvs5M&vet=12ahUKEwitnMyxxLmBAxV8rpUCHdtlAKYQMygAegQIARBK..i&imgrefurl=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALaravel.svg&docid=edWvOhKVI1_mJM&w=1969&h=2048&q=laravel%20logo&ved=2ahUKEwitnMyxxLmBAxV8rpUCHdtlAKYQMygAegQIARBK)"/>  | 
+    Laravel <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="[[https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FLaravel.svg%2F1969px-Laravel.svg.png&tbnid=emeEECsbOIvs5M&vet=12ahUKEwitnMyxxLmBAxV8rpUCHdtlAKYQMygAegQIARBK..i&imgrefurl=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALaravel.svg&docid=edWvOhKVI1_mJM&w=1969&h=2048&q=laravel%20logo&ved=2ahUKEwitnMyxxLmBAxV8rpUCHdtlAKYQMygAegQIARBK)](https://i.pinimg.com/564x/1d/d5/0a/1dd50a25b526a8e6c60dd41ebe32a3e2.jpg)"/>  | 
     Javascript <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"/>  |
     Node Js <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268343/readme/pngwing.com_9_nptorj.png"/> |
     Express <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268180/readme/pngwing.com_5_mtcqjs.png"/> |
