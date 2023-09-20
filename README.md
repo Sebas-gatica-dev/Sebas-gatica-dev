@@ -42,7 +42,7 @@ const aboutMe = {
     html5 <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"/> |
     css3 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/> |
     bootstrap5 <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"/> |
-    tailwindcss <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="[https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg](https://github.com/Sebas-gatica-dev/Sebas-gatica-dev/blob/main/tailwindcss.png)"/>  
+    tailwindcss <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://i.pinimg.com/236x/51/a3/d9/51a3d9f3e1b12039ff65663779255981.jpg"/>  
     sass <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/> | 
     React <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"/> | 
     Redux <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635267893/readme/pngwing.com_2_jzoj50.png"/>
@@ -50,7 +50,7 @@ const aboutMe = {
     <br>
 <h2><strong>Lenguages: Backend<strong></h2>        
     <h3>  
-    Laravel <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="[https://commons.wikimedia.org/wiki/File:Logo.min.svg](https://github.com/Sebas-gatica-dev/Sebas-gatica-dev/blob/main/laravel.jpg)"/>  | 
+    Laravel <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://i.pinimg.com/236x/b8/0d/c0/b80dc0a8aec2f2f7a37b8417f07258cd.jpg"/>  | 
     Javascript <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"/>  |
     Node Js <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268343/readme/pngwing.com_9_nptorj.png"/> |
     Express <img <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635268180/readme/pngwing.com_5_mtcqjs.png"/> |
