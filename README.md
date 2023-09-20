@@ -1,5 +1,5 @@
 # Sebas-gatica-dev
-'<h1> ¡Hola! Gracias por vsitar mi perfil de github <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+'<h1> ¡Hola! Gracias por visitar mi perfil de github <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
   <dl>
   <br>
     <img style='width: 100%; height: 22rem' src='https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg'/>
