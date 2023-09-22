@@ -70,5 +70,7 @@ const aboutMe = {
     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">       
     </a><br>
 <h3>  Podes comunicarte: sebasdeveloperlife@gmail.com <h3>
+
+  Mi Porfolio : https://650dcfb842629216f661bbf0--tiny-cajeta-a7408c.netlify.app/
     <br><br>
     Gracias por tu visita!'
