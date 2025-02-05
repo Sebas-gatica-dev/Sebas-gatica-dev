@@ -57,11 +57,15 @@ Busco oportunidades en empresas que valoren el talento joven y estén dispuestas
     <h3>
     <br>  
 <h2> Contacto: <h3> 
-    <a href='https://www.linkedin.com/in/sebastian-gatica-062985200/' target= "_blank">
+    <a href='[https://www.linkedin.com/in/sebastian-gatica-062985200/](https://www.linkedin.com/in/sebastian-gatica-dev/)' target= "_blank">
     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">       
     </a><br>
 <h3>  Podes comunicarte: sebasdeveloperlife@gmail.com <h3>
 
-  Mi Porfolio : https://650dcfb842629216f661bbf0--tiny-cajeta-a7408c.netlify.app/
+ <a href='[https://650dcfb842629216f661bbf0--tiny-cajeta-a7408c.netlify.app/](https://silver-centaur-ddfa55.netlify.app/#/)' target= "_blank">
+     Visita mi porfolio
+ </a>
+ 
+  
     <br><br>
     Gracias por tu visita!'
