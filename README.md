@@ -32,10 +32,22 @@ const aboutMe = {
   challenge: "Open to learn new skills in the taechnology field"
 };
 ```
-- *¿Qué busco?*: Demostrar mis habilidades como desarrollador. Mi capacidad de aprendizaje y ansias de autosuperación, me convierten en un buen candidato para aquellas empresas en expansion que quieran integrar un nuevo talento a su equipo.
-- *Objetivo:* Implementar mis proyectos con el mayor estándar de calidad posible, empleando un Stack de tecnologías que logro cultivar con esfuerzo y dedicación.
-- *En realidad:* Me emociona la idea de participar en proyectos, en el que pueda desarrollarme en el que pueda trabajar conjuntamente con otros profesionales, cuya compañia me nutra en conocimientos, y buenas practicas en el trabajo . Lo mas importante para mi, ademas de cumplir y desempeñar efectivamente las responsabilidades laborales, es expadir mis conocimientos en el ambito del desarrollo mobile, y del desarrollo blockchain, para asegurar la seguridad de datos.:muscle:
-- *Habilidades*: Adaptabilidad. Autodidacta. Proactivo por iniciativa propia. Me siento especialmente genial en el trabajo en equipo. Me gusta contribuir, cooperar y colaborar con mis compañeros para crear y formular la solucion que se necesita, a través de procesos, basados en metodologías de trabajo agiles, que nos brinden garantía de resultados en el plazo requerido. Entre las tecnologias expuestas, en la que mas conocimientos poseo, es Laravel, tengo un conocimiento acabado del funcionamiento de un sistema de autenticacion de usuario, generacion de tokens sanctum y/o jasonwebtoken(dependiendo de las especificaciones), para identificar permisos por el cual el usuario puede interactuar con la informacion. Manejo de diferentes roles(visitante, usuario, administrador), testing de Features y testing unitarios, manejo de formularios complejos, alta, baja, y edicion de datos provenientes de tablas relacionadas de manera compleja, generacion de migraciones, factorys, seeders, para asegurar que la aplicacion sea testeada de manera correcta en cualquier ambito local... :thumbsup:
+*Presentación profesional*
+Soy un desarrollador junior con dos años de experiencia trabajando principalmente con el Stack TALL (Laravel, Livewire, AlpineJS y TailwindCSS). Mi enfoque ha estado en crear aplicaciones web robustas, eficientes y escalables utilizando estas tecnologías. Me considero especialmente competente en este stack, con un profundo conocimiento de las mejores prácticas y herramientas necesarias para implementar soluciones de alta calidad.
+
+*Habilidades destacadas*
+Laravel : Tengo un dominio avanzado en la creación de sistemas de autenticación de usuarios, generación de tokens (Sanctum o JWT), manejo de roles (visitante, usuario, administrador), testing de features y unitarios, migraciones, factories y seeders. He trabajado con formularios complejos y tablas relacionadas para asegurar la integridad de los datos.
+Livewire : Experiencia en la creación de interfaces dinámicas y componentes interactivos sin depender de JavaScript pesado. He integrado Livewire con AlpineJS para mejorar la experiencia del usuario.
+AlpineJS : Manejo conexiones con APIs externas (como Google Maps y AWS S3), implementación de máscaras de entrada, métodos drag-and-drop, y validaciones personalizadas.
+TailwindCSS : Experto en diseño responsivo, grids, flexbox, animaciones de skeleton loaders y temas oscuros. Familiaridad con plugins de Tailwind y su uso en proyectos rápidos con Tailwind UI.
+Además, tengo conocimientos funcionales en Java Spring Boot y Python , aunque mi experiencia es más sólida en el Stack TALL. Estoy constantemente aprendiendo y mejorando mis habilidades en estas áreas para ampliar mi alcance técnico.
+
+*Mi enfoque y objetivos*
+Mi objetivo es implementar proyectos con los más altos estándares de calidad , empleando un stack de tecnologías que he cultivado con dedicación y esfuerzo. Me emociona participar en equipos donde pueda colaborar con otros profesionales, aprender buenas prácticas y contribuir activamente al éxito del proyecto.
+
+Busco oportunidades en empresas en expansión que valoren el talento joven y estén dispuestas a integrar a un desarrollador comprometido, adaptable y con ansias de crecimiento. Estoy especialmente interesado en proyectos que me permitan expandir mis conocimientos en desarrollo móvil y blockchain , con un enfoque en la seguridad de datos.
+
+ :thumbsup:
     
 <h2><strong>Lenguages: FrontEnd<strong></h2>
     <h3>
