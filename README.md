@@ -61,11 +61,11 @@ Busco oportunidades en empresas que valoren el talento joven y estén dispuestas
     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://res.cloudinary.com/druj3xeao/image/upload/v1635266956/readme/linkedin-logo-png-1825_cjdift.png">       
     </a><br>
 <h3>  Podes comunicarte: sebasdeveloperlife@gmail.com <h3>
-
- <a href='[https://650dcfb842629216f661bbf0--tiny-cajeta-a7408c.netlify.app/](https://silver-centaur-ddfa55.netlify.app/#/)' target= "_blank">
+  
+<a href='[https://650dcfb842629216f661bbf0--tiny-cajeta-a7408c.netlify.app/](https://silver-centaur-ddfa55.netlify.app/#/)' target= "_blank">
      Visita mi porfolio
  </a>
  
-  
-    <br><br>
-    Gracias por tu visita!'
+
+<br><br>
+Gracias por tu visita!'
