@@ -7,45 +7,24 @@
 <p>Mi nombre es Sebastian Gatica, desarrollador full-stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### Un poco de mis habilidades...  
 
-```javascript
-const aboutMe = {
-  developer: "FrontEnd" | "BackEnd",
-   code: [ES6, HTML5, CSS3, PHP8, Java, TypeScript],
-   technologies: {
-      frontEnd: {
-         js: ["ReactJS","React-RouterV6", React-redux],
-         css: ["TailwindCSS","Bootstrap", "Sass"]
-      },
-      backEnd: {
-         js: [ "ExpressJS","Sequelize", "ejs","mysql", "DOTenv", "BcryptJS", "express-validator","JWT(json-web-token)",
-         ],
-         php: ["Laravel10"],
-         typescript:["NestJS"],
-         java: ["SpringBoot", "Hibernate", "Argon2", "JWT"],
-      },
-      databases: ["MySQL", "PostgreSQL", "MongoDB", "Mariadb"],
-   },
-  codeEditors:["Visual Studio","Visual Studio Code","Sublime Text","NetBeans","Intellij IDEA"],
-  skillLevel: ["Web Developer","Full Stack Jr"],
-  challenge: "Open to learn new skills in the taechnology field"
-};
-```
 *Presentación profesional*
-Soy un desarrollador junior con dos años de experiencia trabajando principalmente con el Stack TALL (Laravel, Livewire, AlpineJS y TailwindCSS). Mi enfoque ha estado en crear aplicaciones web robustas, eficientes y escalables utilizando estas tecnologías. Me considero especialmente competente en este stack, con un profundo conocimiento de las mejores prácticas y herramientas necesarias para implementar soluciones de alta calidad.
+Soy un desarrollador con dos años de experiencia trabajando principalmente con el Stack TALL (Laravel, Livewire, AlpineJS y TailwindCSS). Mi enfoque ha estado en crear aplicaciones web robustas, eficientes y escalables utilizando estas tecnologías. Me considero especialmente competente en este stack, con un profundo conocimiento de las mejores prácticas y herramientas necesarias para implementar soluciones de alta calidad.
 
 *Habilidades destacadas*
-Laravel : Tengo un dominio avanzado en la creación de sistemas de autenticación de usuarios, generación de tokens (Sanctum o JWT), manejo de roles (visitante, usuario, administrador), testing de features y unitarios, migraciones, factories y seeders. He trabajado con formularios complejos y tablas relacionadas para asegurar la integridad de los datos.
+Laravel : Tengo un dominio avanzado en la creación de sistemas de autenticación de usuarios, generación de tokens (Sanctum o JWT), manejo de roles (visitante, usuario, administrador), migraciones, factories y seeders. He trabajado con formularios complejos y tablas relacionadas para asegurar la integridad de los datos.
 Livewire : Experiencia en la creación de interfaces dinámicas y componentes interactivos sin depender de JavaScript pesado. He integrado Livewire con AlpineJS para mejorar la experiencia del usuario.
 AlpineJS : Manejo conexiones con APIs externas (como Google Maps y AWS S3), implementación de máscaras de entrada, métodos drag-and-drop, y validaciones personalizadas.
 TailwindCSS : Experto en diseño responsivo, grids, flexbox, animaciones de skeleton loaders y temas oscuros. Familiaridad con plugins de Tailwind y su uso en proyectos rápidos con Tailwind UI.
-Además, tengo conocimientos funcionales en Java Spring Boot y Python , aunque mi experiencia es más sólida en el Stack TALL. Estoy constantemente aprendiendo y mejorando mis habilidades en estas áreas para ampliar mi alcance técnico.
+
+  Además, tengo conocimientos funcionales en Java Spring Boot en la creacion de APIs, gestion de accione CRUD, utilizando Hibernate en bases de datos Mysql. 
+  Tambien tengo conocimientos en Python, en librerias como BeautifulSoup, Selenium, Flask, Requests. 
+  Estoy constantemente aprendiendo y mejorando mis habilidades en estas áreas para ampliar mi alcance técnico.
 
 *Mi enfoque y objetivos*
-Mi objetivo es implementar proyectos con los más altos estándares de calidad , empleando un stack de tecnologías que he cultivado con dedicación y esfuerzo. Me emociona participar en equipos donde pueda colaborar con otros profesionales, aprender buenas prácticas y contribuir activamente al éxito del proyecto.
+Mi objetivo es implementar proyectos con los más altos estándares de calidad , empleando un stack de tecnologías que he cultivado con dedicación y esfuerzo. Me interesa participar en equipos donde pueda colaborar con otros profesionales, aplicar buenas prácticas y contribuir activamente al éxito del proyecto.
 
-Busco oportunidades en empresas en expansión que valoren el talento joven y estén dispuestas a integrar a un desarrollador comprometido, adaptable y con ansias de crecimiento. Estoy especialmente interesado en proyectos que me permitan expandir mis conocimientos en desarrollo móvil y blockchain , con un enfoque en la seguridad de datos.
+Busco oportunidades en empresas que valoren el talento joven y estén dispuestas a integrar a un desarrollador comprometido, adaptable y con ansias de expandir los proyectos de la empresa y buscar siempre nuevos desafios.
 
  :thumbsup:
     
