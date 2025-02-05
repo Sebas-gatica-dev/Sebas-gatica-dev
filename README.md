@@ -62,9 +62,8 @@ Busco oportunidades en empresas que valoren el talento joven y estén dispuestas
     </a><br>
 <h3>  Podes comunicarte: sebasdeveloperlife@gmail.com <h3>
   
-<a href='[https://650dcfb842629216f661bbf0--tiny-cajeta-a7408c.netlify.app/](https://silver-centaur-ddfa55.netlify.app/#/)' target= "_blank">
-     Visita mi porfolio
- </a>
+Visita mi porfolio : [https://650dcfb842629216f661bbf0--tiny-cajeta-a7408c.netlify.app/](https://silver-centaur-ddfa55.netlify.app/#/)
+
  
 
 <br><br>
